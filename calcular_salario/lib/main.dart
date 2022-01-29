@@ -1,6 +1,6 @@
 /*
 
-  Escuela (Univercida Tecnologica Metropolitana);
+  Escuela (Universidad Tecnologica Metropolitana);
   Materia (Desarrollo Movil Multiplaforma);
   Maestro (Joel Ivan Chuc Uc);
   Actividad (Actividad 2 Unidad 1);
